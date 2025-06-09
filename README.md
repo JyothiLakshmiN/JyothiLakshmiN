@@ -3,4 +3,4 @@ I'm a Software Engineer and Master's student at Chicago State University passion
 
 💼 7+ years of experience | React, Node.js, Redux, Python  
 📚 Current Projects: AI Code Reviewer, Health AI Recommender  
-🌐 [Portfolio](https://yourportfolio.com) | [LinkedIn](https://linkedin.com/in/yourprofile) 
+🌐 [Portfolio](https://jyothi-portfolio-kappa.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jyothilakshminagaraj/) 
