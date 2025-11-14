@@ -1,5 +1,5 @@
 # Hi, I'm Jyothi Lakshmi  
-### Software Engineer (7+ years) | AI/ML Enthusiast | Full-Stack Developer | Master’s in CS @ Chicago State University
+### Software Engineer (7+ years) | AI/ML Enthusiast | Full-Stack Developer (React, Redux, Node.js, Next.js, GraphQL) | Master’s in CS @ Chicago State University
 
 I specialize in building **production-grade applications**, designing **intelligent AI systems**, and creating scalable solutions using **modern web technologies, machine learning, and cloud architectures**.
 
