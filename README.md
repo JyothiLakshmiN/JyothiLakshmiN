@@ -5,7 +5,7 @@ I specialize in building **production-grade applications**, designing **intellig
 
 I’m passionate about blending **software engineering + AI** to build tools that enhance developer productivity, intelligence, and automation.
 
----
+
 
 ## What I Do
 - **Full-Stack Engineering:** React 19, Next.js, Redux, Node.js  
@@ -14,7 +14,7 @@ I’m passionate about blending **software engineering + AI** to build tools tha
 - **Databases:** PostgreSQL, MongoDB, ChromaDB, FAISS  
 - **Architecture:** REST APIs, Microservices, Vector Search, System Design
 
----
+
 
 ## Tech Stack
 **Frontend:** React 19, Next.js, Tailwind CSS, Redux, TypeScript  
@@ -24,7 +24,6 @@ I’m passionate about blending **software engineering + AI** to build tools tha
 **Tools:** Docker, GitHub Actions, Postman, Vercel, Linux  
 **Other:** Microservices, WebSockets, Real-Time Collaboration, CI/CD Pipelines
 
----
 
 ## Highlighted Projects
 
@@ -40,7 +39,6 @@ A full-stack **cloud-based IDE platform** designed for developers, supporting:
 
 **Tech:** React 19, Node.js, Express, Docker, WebSockets, PostgreSQL, JWT, Tailwind
 
----
 
 ### **Retrieval-Augmented Generation (RAG) Pipeline – Mini Notebook LLM**  
 **Link:** _[Add Your Link]_  
@@ -54,7 +52,6 @@ Built a production-ready **LLM-powered notebook system** enabling:
 
 **Tech:** Python, LangChain, ChromaDB, SentenceTransformers, FastAPI, LLMs
 
----
 
 ## Current Focus
 - Enhancing AI-powered developer tools and RAG systems  
@@ -63,14 +60,12 @@ Built a production-ready **LLM-powered notebook system** enabling:
 - Deepening skills in **frontend engineering**: advanced React patterns, performance optimization, design systems, and interactive UI/UX  
 - Experimenting with distributed LLM inference and multimodal workflows
 
----
 
 ## Connect With Me  
 🔗 **Portfolio:** Coming Soon  
 🔗 **LinkedIn:** yourprofile  
 🔗 **GitHub:** JyothiLakshmiN  
 
----
 
 ## Fun Fact  
 I love building systems that empower developers—whether through smarter AI workflows or advanced engineering tools.
