@@ -62,8 +62,8 @@ Built a production-ready **LLM-powered notebook system** enabling:
 
 
 ## Connect With Me  
-🔗 **Portfolio:** Coming Soon  
-🔗 **LinkedIn:** yourprofile  
+🔗 **Portfolio:** https://jyothi-portfolio-kappa.vercel.app/ 
+🔗 **LinkedIn:** https://www.linkedin.com/in/jyothilakshminagaraj/  
 🔗 **GitHub:** JyothiLakshmiN  
 
 
