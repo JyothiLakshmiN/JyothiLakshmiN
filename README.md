@@ -28,7 +28,7 @@ I’m passionate about blending **software engineering + AI** to build tools tha
 ## Highlighted Projects
 
 ### **CodeSphere – SaaS Cloud IDE**  
-**Link:** _[Add Your Link]_  
+**Link:** https://code-sphere-three.vercel.app/  
 A full-stack **cloud-based IDE platform** designed for developers, supporting:  
 - Secure authentication & role-based access  
 - Real-time collaborative editing (WebSockets)  
@@ -41,7 +41,7 @@ A full-stack **cloud-based IDE platform** designed for developers, supporting:
 
 
 ### **Retrieval-Augmented Generation (RAG) Pipeline – Mini Notebook LLM**  
-**Link:** _[Add Your Link]_  
+**Link:** https://mini-notebook-llm.streamlit.app/  
 Built a production-ready **LLM-powered notebook system** enabling:  
 - Context-aware question answering  
 - Real-time retrieval with **ChromaDB** + **SentenceTransformers**  
