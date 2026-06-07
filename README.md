@@ -140,7 +140,7 @@ Full-stack food delivery app with Stripe payments, JWT auth, admin dashboard, an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JyothiLakshmiN&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jyothi's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-coral-psi-85.vercel.app/api?username=JyothiLakshmiN&show_icons=true" alt="Jyothi's GitHub Stats" height="180" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyothiLakshmiN&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180" />
 </div>
