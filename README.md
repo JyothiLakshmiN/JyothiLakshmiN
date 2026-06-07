@@ -16,14 +16,14 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-- 🎓 **M.S. Computer Science** @ Chicago State University *(GPA: 4.0 · May 2026)*
-- 💼 **7+ years** of full-stack engineering experience at Walmart GlobalTech, Capgemini, and more
-- 🤖 Currently focused on **AI application development** — RAG systems, agentic workflows, and LLM integrations
-- 🌍 Based in **Chicago, IL** · Open to relocation · Requires H-1B sponsorship
-- ✍️ Writing about AI tooling and developer workflows on **Substack**
-- 🔍 Open to **AI Engineer** and **Full Stack Engineer** roles
+- **M.S. Computer Science** @ Chicago State University *(GPA: 4.0 · May 2026)*
+- **7+ years** of full-stack engineering experience at Walmart GlobalTech, Capgemini, and more
+- Currently focused on **AI application development** — RAG systems, agentic workflows, and LLM integrations
+- Based in **Chicago, IL** · Open to relocation · Requires H-1B sponsorship
+- Writing about AI tooling and developer workflows on **Substack**
+- Open to **AI Engineer** and **Full Stack Engineer** roles
 
 ---
 
@@ -31,15 +31,15 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔔 **H1B Job Alert App** | Personal job alert app with resume match scoring | FastAPI · SQLite · Playwright · Claude API |
-| 🤖 **Agentic RAG Research Assistant** | Multi-step reasoning over enterprise knowledge sources | LangChain · LangGraph · pgvector |
-| 🔌 **MCP Server Suite** | Job Crawler + Recruiter Finder MCP servers | Node.js · Greenhouse · Lever · Ashby |
+| **H1B Job Alert App** | Personal job alert app with resume match scoring | FastAPI · SQLite · Playwright · Claude API |
+| **Agentic RAG Research Assistant** | Multi-step reasoning over enterprise knowledge sources | LangChain · LangGraph · pgvector |
+| **MCP Server Suite** | Job Crawler + Recruiter Finder MCP servers | Node.js · Greenhouse · Lever · Ashby |
 
 ---
 
-## 💻 Key Technologies
+## Key Technologies
 
-### 🤖 AI & LLM Engineering
+### AI & LLM Engineering
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-4B0082?style=flat)
@@ -48,7 +48,7 @@
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-4B0082?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-### 🧠 AI Infrastructure & Vector Search
+### AI Infrastructure & Vector Search
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
@@ -57,7 +57,7 @@
 ![Supabase pgvector](https://img.shields.io/badge/Supabase_pgvector-3ECF8E?style=flat&logo=supabase&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B35?style=flat)
 
-### 📐 ML Frameworks
+### ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
@@ -66,13 +66,13 @@
 ![SHAP](https://img.shields.io/badge/SHAP-005F9E?style=flat)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-### 🧑‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend Development
+### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
@@ -82,12 +82,12 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
-### 🔨 Backend Development
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -95,7 +95,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -103,31 +103,27 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### 🔧 Version Control
+### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-### 🧠 [RAG Knowledge Base MCP Server](https://github.com/jyothilakshminagaraj)
+### [RAG Knowledge Base MCP Server](https://github.com/jyothilakshminagaraj)
 Built a production-grade RAG pipeline with semantic retrieval, HuggingFace MiniLM embeddings, Supabase pgvector, and Groq LLaMA — integrated as an MCP server with Claude Desktop.
 `Python` `LangChain` `HuggingFace` `Supabase pgvector` `Groq` `MCP`
 
-### 🔍 [Recruiter Finder & Outreach MCP Server](https://github.com/jyothilakshminagaraj)
-Automated recruiter discovery and cold outreach via Brave Search, Groq, Gmail, and Cloudflare Workers — deployed as a full MCP server.
-`Node.js` `Brave Search` `Groq` `Gmail API` `Cloudflare Workers`
-
-### ⚖️ [Responsible AI Customer Retention Platform](https://github.com/jyothilakshminagaraj)
+### [Responsible AI Customer Retention Platform](https://github.com/jyothilakshminagaraj)
 Explainable ML churn prediction with 89% AUC-ROC using PyTorch + XGBoost, SHAP interpretability, and demographic bias analysis.
 `FastAPI` `Next.js` `PyTorch` `XGBoost` `SHAP`
 
-### ⚡ [Real-Time Anomaly Detection Pipeline](https://github.com/jyothilakshminagaraj)
+### [Real-Time Anomaly Detection Pipeline](https://github.com/jyothilakshminagaraj)
 Fraud detection system processing 100K+ transactions/minute with sub-second latency using Kafka, PySpark Structured Streaming, and TensorFlow.
 `Kafka` `PySpark` `TensorFlow` `Python`
 
-### 🌐 [PageSage — Chrome Extension](https://github.com/jyothilakshminagaraj)
+### [PageSage — Chrome Extension](https://github.com/jyothilakshminagaraj)
 AI-powered Chrome extension with YouTube transcript extraction, Claude API integration, and a sidebar chat UI for contextual page reasoning.
 `JavaScript` `Claude API` `Chrome Extensions API`
 
@@ -137,22 +133,22 @@ Full-stack food delivery app with Stripe payments, JWT auth, admin dashboard, an
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-coral-psi-85.vercel.app/api?username=JyothiLakshmiN&show_icons=true" alt="Jyothi's GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyothiLakshmiN&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats-coral-psi-85.vercel.app/api/top-langs/?username=JyothiLakshmiN&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
 
-## 📝 Latest Writing
+## Latest Writing
 
 <!-- Replace these with your actual Substack post links -->
-- 🤖 [AI Native: What it actually means to build with LLMs](https://substack.com/@jyothilakshmi)
-- 🔌 [Building MCP Servers from scratch](https://substack.com/@jyothilakshmi)
-- 🧱 [RAG in production — chunking, retrieval, and evaluation](https://substack.com/@jyothilakshmi)
+- [AI Native: What it actually means to build with LLMs](https://substack.com/@jyothilakshmi)
+- [Building MCP Servers from scratch](https://substack.com/@jyothilakshmi)
+- [RAG in production — chunking, retrieval, and evaluation](https://substack.com/@jyothilakshmi)
 
 ---
 
