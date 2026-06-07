@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-jyothilakshmi.cbp%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jyothilakshmi.cbp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jyothilakshminagaraj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyothilakshminagaraj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jyothi--portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jyothi-portfolio-kappa.vercel.app)
-[![Substack](https://img.shields.io/badge/Substack-AI%20%26%20Dev%20Writes-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@jyothilakshmi)
+[![Substack](https://img.shields.io/badge/Substack-AI%20%26%20Dev%20Writes-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@jyothilakshminagaraj1)
 
 </div>
 
@@ -127,7 +127,7 @@ Fraud detection system processing 100K+ transactions/minute with sub-second late
 AI-powered Chrome extension with YouTube transcript extraction, Claude API integration, and a sidebar chat UI for contextual page reasoning.
 `JavaScript` `Claude API` `Chrome Extensions API`
 
-### 🍕 [ZipBites — Full-Stack Food Ordering](https://github.com/JyothiLakshmiN/zipbites-foor-ordering-app-frontend)
+### [ZipBites — Full-Stack Food Ordering](https://github.com/JyothiLakshmiN/zipbites-foor-ordering-app-frontend)
 Full-stack food delivery app with Stripe payments, JWT auth, admin dashboard, and real-time order tracking.
 `React` `Node.js` `PostgreSQL` `Stripe`
 
@@ -145,11 +145,11 @@ Full-stack food delivery app with Stripe payments, JWT auth, admin dashboard, an
 
 ## Latest Writing
 
-<!-- Replace these with your actual Substack post links -->
-- [AI Native: What it actually means to build with LLMs](https://substack.com/@jyothilakshmi)
-- [Building MCP Servers from scratch](https://substack.com/@jyothilakshmi)
-- [RAG in production — chunking, retrieval, and evaluation](https://substack.com/@jyothilakshmi)
-
+- [Embeddings Explained: The Technology Quietly Powering Every AI App You Use](https://substack.com/home/post/p-196595188)
+- [I Finally Understood How LLM Fine-Tuning Works — Here's a Simple Guide](https://substack.com/home/post/p-196149866)
+- [How I Built My Own Personal AI Agent in 30 Minutes (For Free)](https://substack.com/home/post/p-193410013)
+- [Understanding AI Native & How to Actually Work with AI](https://substack.com/home/post/p-191290831)
+- And many more (https://substack.com/@jyothilakshminagaraj1)
 ---
 
 <div align="center">
