@@ -111,19 +111,19 @@
 
 ## Featured Projects
 
-### [RAG Knowledge Base MCP Server](https://github.com/jyothilakshminagaraj)
+### [RAG Knowledge Base MCP Server](https://github.com/JyothiLakshmiN/RAG-pipeline)
 Built a production-grade RAG pipeline with semantic retrieval, HuggingFace MiniLM embeddings, Supabase pgvector, and Groq LLaMA — integrated as an MCP server with Claude Desktop.
 `Python` `LangChain` `HuggingFace` `Supabase pgvector` `Groq` `MCP`
 
-### [Responsible AI Customer Retention Platform](https://github.com/jyothilakshminagaraj)
+### [Responsible AI Customer Retention Platform](https://github.com/JyothiLakshmiN/responsible-ml-churn)
 Explainable ML churn prediction with 89% AUC-ROC using PyTorch + XGBoost, SHAP interpretability, and demographic bias analysis.
 `FastAPI` `Next.js` `PyTorch` `XGBoost` `SHAP`
 
-### [Real-Time Anomaly Detection Pipeline](https://github.com/jyothilakshminagaraj)
+### [Real-Time Anomaly Detection Pipeline](https://github.com/JyothiLakshmiN/realtime-fraud-detection)
 Fraud detection system processing 100K+ transactions/minute with sub-second latency using Kafka, PySpark Structured Streaming, and TensorFlow.
 `Kafka` `PySpark` `TensorFlow` `Python`
 
-### [PageSage — Chrome Extension](https://github.com/jyothilakshminagaraj)
+### [PageSage — Chrome Extension](https://github.com/JyothiLakshmiN/page-sage)
 AI-powered Chrome extension with YouTube transcript extraction, Claude API integration, and a sidebar chat UI for contextual page reasoning.
 `JavaScript` `Claude API` `Chrome Extensions API`
 
